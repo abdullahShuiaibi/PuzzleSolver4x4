@@ -1,0 +1,22 @@
+    Search Type: Breadth First Search
+orginal puzzle: [2, 6, 3, 4, 1, 0, 7, 8, 5, 10, 11, 12, 9, 13, 14, 15]
+path taken to solve puzzle: N, W, S, S, S, E, E, E
+
+Search Type: Depth First Search
+orginal puzzle: [1, 2, 3, 0, 5, 6, 7, 4, 9, 10, 11, 8, 13, 14, 15, 12]
+path taken to solve puzzle: S, S, S
+
+Search Type: Iterative Deepening Search
+orginal puzzle: [1, 2, 3, 0, 5, 6, 7, 4, 9, 10, 11, 8, 13, 14, 15, 12]
+path taken to solve puzzle: S, S, S
+
+Search Type: Breadth First Search
+orginal puzzle: [2, 4, 8, 0, 1, 6, 3, 12, 5, 7, 10, 11, 9, 13, 14, 15]
+path taken to solve puzzle: W, W, S, S, E, E, N, N, W, S, W, N, W, S, S, S, E, E, E
+nodes looked at: 6639056
+
+Search Type: A* Search
+orginal puzzle: [2, 4, 8, 0, 1, 6, 3, 12, 5, 7, 10, 11, 9, 13, 14, 15]
+path taken to solve puzzle: W, W, W, S, E, S, E, E, N, N, W, S, W, W, S, S, E, E, E
+nodes looked at: 232
+
